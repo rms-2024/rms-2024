@@ -1,10 +1,13 @@
-- 👋 Hi, my name is Rebecca. (@rms-2024)
-- 👀 I’m interested in mainly NOSTR.
-- 🌱 I’m currently curious about decentralized / distributed social networking protocols that are straightforward and easy to use. 
-- 💞️ I’m looking to collaborate on NOSTR Clients.
-- 📫 How to reach me ... my personal email at marierebeccastefan@outlook.com or @rebeccastefan:matrix.org
-- 😄 Pronouns: ... she/her or they/them.
-- ⚡ Fun fact: ... eschew surplusage.
+Hey, my name is Rebecca and I'm new to developing.
+I'm just browsing code right now and trying to learn how a protocol like nostr works.
+I am doing it mainly because its interesting to me- I like that I can remain anonymous and don't have to include a stupid email when signing up. 
+Bitcoin is great too. 
+I have a lot to learn. 
+Other projects that interest me are audiobook apps like Audible and Wikipedia. 
+AI is cool too. 
+I will probably have to read a lots of your guys's code before ever doing anything. 
+Cheers. 
+
 
 <!---
 rms-2024/rms-2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
