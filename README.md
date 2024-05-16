@@ -3,8 +3,8 @@ I'm just browsing code right now and trying to learn how a protocol like nostr w
 I am doing it mainly because its interesting to me- I like that I can remain anonymous and don't have to include a stupid email when signing up. 
 Bitcoin is great too. 
 I have a lot to learn. 
-Other projects that interest me are audiobook apps like Audible and Wikipedia. 
-AI is cool too. 
+Other projects that interest me are Wikipedia and audiobook apps like Audible. 
+AI is cool too, LLMS and all that. 
 I will probably have to read a lots of your guys's code before ever doing anything. 
 Cheers. 
 
